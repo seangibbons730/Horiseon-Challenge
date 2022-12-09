@@ -24,3 +24,9 @@
 - Fixed broken links
 - Refractored HTML
 - Cleaned up unnecessary HTML elements 
+
+# Website URL
+- https://seangibbons730.github.io/Horiseon-Challenge/
+
+![image](https://user-images.githubusercontent.com/119081622/206631112-8114c11c-6dc6-4ef3-8375-1a4627997d90.png)
+
